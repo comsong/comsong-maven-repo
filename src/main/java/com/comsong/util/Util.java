@@ -1,6 +1,6 @@
 package com.comsong.util;
 
-public class Utils {
+public class Util {
     private String name = "comsong";
 
     public String getName() {
