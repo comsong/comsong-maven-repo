@@ -1,7 +1,7 @@
 package com.comsong.util;
 
 public class Util {
-    private String name = "comsongtest1";
+    private String name = "comsongtest2";
 
     public String getName() {
         return name;
